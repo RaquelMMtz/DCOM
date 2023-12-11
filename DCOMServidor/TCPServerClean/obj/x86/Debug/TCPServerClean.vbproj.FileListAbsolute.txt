@@ -1,0 +1,21 @@
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPServerClean\TCPServerClean\bin\Debug\TCPServerClean.exe
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPServerClean\TCPServerClean\bin\Debug\TCPServerClean.pdb
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPServerClean\TCPServerClean\bin\Debug\TCPServerClean.xml
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServer.Form1.resources
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServer.Resources.resources
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServerClean.vbproj.GenerateResource.Cache
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServerClean.exe
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServerClean.xml
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServerClean.pdb
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\bin\Debug\TCPServerClean.exe.config
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\bin\Debug\TCPServerClean.exe
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\bin\Debug\TCPServerClean.pdb
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\bin\Debug\TCPServerClean.xml
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServerClean.vbproj.AssemblyReference.cache
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServer.Form1.resources
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServer.Resources.resources
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServerClean.vbproj.GenerateResource.cache
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServerClean.vbproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServerClean.exe
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServerClean.xml
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPServerClean\TCPServerClean\obj\x86\Debug\TCPServerClean.pdb

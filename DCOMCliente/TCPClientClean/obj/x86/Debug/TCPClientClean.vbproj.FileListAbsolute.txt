@@ -1,0 +1,21 @@
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.exe
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.pdb
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.xml
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Form1.resources
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Resources.resources
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.GenerateResource.Cache
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.exe
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.xml
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.pdb
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.exe.config
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.exe
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.pdb
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.xml
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.AssemblyReference.cache
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Form1.resources
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Resources.resources
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.GenerateResource.cache
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.exe
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.xml
+C:\Users\marco\source\repos\WindowsApp1\WindowsApp1\bin\Debug\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.pdb
